@@ -14,7 +14,7 @@ pipelineJob('theme-park-job') {
                     remote {
                         url 'https://github.com/edouardlemessi/projet.git'
                     }
-                    branch 'master'
+                    branch 'main'
                 }
             }
         }
